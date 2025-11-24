@@ -57,4 +57,4 @@ Sou dedicada, autodidata e apaixonada por tecnologia, acredito que ela transform
 ---
 
 ### ✨ Obrigada por visitar meu perfil!
-Sinta-se à vontade para explorar meus projetos — estou sempre evoluindo e compartilhando minha jornada como futura Desenvolvedora Front-End.
+Sinta-se à vontade para explorar meus projetos, estou sempre evoluindo e compartilhando minha jornada como futura Desenvolvedora Front-End.
