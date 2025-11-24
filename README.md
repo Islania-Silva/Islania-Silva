@@ -10,7 +10,7 @@
 ## 🌟 Sobre mim
 Sou estudante de ADS e atualmente foco meus estudos em **HTML, CSS, JavaScript, Git e GitHub**.  
 Estou sempre aprendendo, praticando e buscando evoluir como desenvolvedora. Tenho experiência com **Excel intermediário**, criação de dashboards e ótimo domínio das ferramentas de produtividade do Office.  
-Sou dedicada, autodidata e apaixonada por tecnologia — acredito que ela transforma vidas e quero fazer parte dessa transformação.
+Sou dedicada, autodidata e apaixonada por tecnologia, acredito que ela transforma vidas e quero fazer parte dessa transformação.
 
 ---
 
