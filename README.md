@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Islânia Silva
+# 👋 Olá! Eu sou Islânia Silva
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Aspirante a **Desenvolvedora Front-End**  
