@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Islânia Silva
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
 💻 Aspirante a **Desenvolvedora Front-End**  
 🚀 Embaixadora da **DIO 2025**  
 📌 Buscando meu **primeiro estágio** em desenvolvimento
@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 Sobre mim
-Sou estudante de ADS e atualmente foco meus estudos em **HTML, CSS, JavaScript, Git e GitHub**.  
+Sou formada em ADS e atualmente foco meus estudos em **HTML, CSS, JavaScript, Git e GitHub**.  
 Estou sempre aprendendo, praticando e buscando evoluir como desenvolvedora. Tenho experiência com **Excel intermediário**, criação de dashboards e ótimo domínio das ferramentas de produtividade do Office.  
 Sou dedicada, autodidata e apaixonada por tecnologia, acredito que ela transforma vidas e quero fazer parte dessa transformação.
 
